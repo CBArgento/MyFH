@@ -205,3 +205,25 @@ margin-bottom: auto;
 .centertitle {
     text-align: center;
 }
+
+/* testing style for phones */
+@media only screen and (max-width: 767px) {
+    .media {
+          align-items: center !important;
+      }
+  } 
+
+  .card .card-body {
+    padding: 15px;
+    text-align: center;
+}
+
+.boxFixDw {
+  display:inline-block; width: 285px;
+  color: #1576b9;
+}
+@media only screen and (max-width: 990px) {
+  .media {
+		align-items: center !important;
+	}
+}
