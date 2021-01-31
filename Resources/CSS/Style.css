@@ -201,3 +201,7 @@ margin-bottom: auto;
 .divider {
     padding-top: 40px;
 }
+
+.centertitle {
+    text-align: center;
+}
