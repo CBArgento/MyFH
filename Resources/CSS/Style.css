@@ -184,3 +184,20 @@ body {
     
   }
   /*===== // Resonsive Vertical Timeline =====*/
+
+  .centercard {
+      text-align: center;
+      padding: 50px;
+      margin-top: auto;
+margin-bottom: auto;
+  }
+
+  .card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+
+.divider {
+    padding-top: 40px;
+}
